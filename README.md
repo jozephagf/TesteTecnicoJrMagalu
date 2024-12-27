@@ -13,5 +13,5 @@
 2. **Criar as Tabelas:**
    * Execute o seguinte comando para criação das tabelas via Migration:
      ```bash
-     update-datebase
+     update-database
      ```
