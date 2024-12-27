@@ -83,7 +83,7 @@ namespace TesteTecnicoJrMagalu.Controllers
         ///           "infQ": [
         ///             {
         ///               "infCarga_infQ_cUnid": "Verificar no campo cUnid da nota técnica do CT-e simplificado",
-        ///               "infCarga_infQ_tpMed": "Verificar no campo cUnid da nota técnica do CT-e simplificado",
+        ///               "infCarga_infQ_tpMed": "Verificar no campo tpMed da nota técnica do CT-e simplificado",
         ///               "infCarga_infQ_qCarga": 500
         ///             },
         ///             {
